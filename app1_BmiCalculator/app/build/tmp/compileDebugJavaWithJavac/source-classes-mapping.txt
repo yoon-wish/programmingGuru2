@@ -1,2 +1,0 @@
-com/example/bmicalculator/BuildConfig.java
- com.example.bmicalculator.BuildConfig
