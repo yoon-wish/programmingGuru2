@@ -1,0 +1,2 @@
+com/example/mywebbrowser/BuildConfig.java
+ com.example.mywebbrowser.BuildConfig
